@@ -5,3 +5,15 @@ body {
 .title {
     color: magenta;
 }
+
+h2 {
+    color:rgb(255, 0, 0);
+}
+
+#contact-us {
+    color: mediumpurple;
+}
+
+.about-me {
+    color: mediumseagreen;
+}
